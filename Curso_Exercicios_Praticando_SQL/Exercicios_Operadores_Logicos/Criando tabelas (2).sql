@@ -1,6 +1,6 @@
 CREATE DATABASE Operadores_Logicos;
 
-USE Operadores_Logicos;
+    USE Operadores_Logicos;
 
 -- Tabela Departamento
 CREATE TABLE TabelaDepartamento (
