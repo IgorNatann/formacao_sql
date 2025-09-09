@@ -1,3 +1,9 @@
+USE Consultas;
+
+EXEC sp_help TabelaClienteConta
+
+CREATE DATABASE CURSO_SQL_3;
+
 CREATE TABLE produtos (
   id TEXT PRIMARY KEY,
   nome VARCHAR(255),
