@@ -1,0 +1,1 @@
+CREATE DATABASE Exercicios_Sub_Consultas;
